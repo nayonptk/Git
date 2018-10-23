@@ -1,7 +1,7 @@
 # basic git commands
 ### 1. To set name and email address for a repo
-	git config --global user.name "mofassel"
-	git config --global user.email "mofassel.me@gmail.com"
+	git config --global user.name "hmbashar"
+	git config --global user.email "youremail@gmail.com"
 ### 1.1. To see current username and email info
 	git config --list
 ### 2. To initiating git repo we need to create a directory where to set the local repo named gitrepo.git
@@ -71,3 +71,4 @@
 
 
 	Md Abul Bashar
+Credit
