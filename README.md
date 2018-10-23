@@ -88,7 +88,7 @@
 
 	Md Abul Bashar
 ## Credit
-[MofasselDotCom](https://github.com/MofasselDotCom/easy-to-use-git-tutorial)
-[dzone](https://dzone.com/articles/top-20-git-commands-with-examples)
-[Reference](https://git-scm.com/docs)
-[More Resource](https://git-scm.com/docs/git)
+[MofasselDotCom](https://github.com/MofasselDotCom/easy-to-use-git-tutorial)  
+[dzone](https://dzone.com/articles/top-20-git-commands-with-examples)  
+[Reference](https://git-scm.com/docs)  
+[More Resource](https://git-scm.com/docs/git)  
