@@ -68,7 +68,27 @@
 ### 13.5. To delete a remote tag
 	git push --delete origin tagname
 	git push origin :tagname
+### 13.6 Push all branches to your remote repository:
+	git push --all origin
+## 14 List all currently configured remote repositories:
+	git remote -v
+## 15 Search
+### 15.1 Search the working directory for foo():
+	git grep "foo()"
+### 16 git show (This command shows the metadata and content changes of the specified commit.)
+	git show
+## 17 git stash 
+### 17.1 This command temporarily stores all the modified tracked files.
+	git stash save
+### 17.2 This command lists all stashed changesets.
+	git stash list
+### 17.3 This command discards the most recently stashed changeset.
+	git stash drop
 
 
 	Md Abul Bashar
-Credit
+## Credit
+	 [MofasselDotCom](https://github.com/MofasselDotCom/easy-to-use-git-tutorial)
+	 [dzone](https://dzone.com/articles/top-20-git-commands-with-examples)
+	 [Reference](https://git-scm.com/docs)
+	 [More Resource](https://git-scm.com/docs/git)
