@@ -86,7 +86,7 @@
 	git stash drop
 
 
-	Md Abul Bashar
+[Md Abul Bashar](https://www.facebook.com/hmbashar)  
 ## Credit
 [MofasselDotCom](https://github.com/MofasselDotCom/easy-to-use-git-tutorial)  
 [dzone](https://dzone.com/articles/top-20-git-commands-with-examples)  
