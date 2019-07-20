@@ -86,9 +86,4 @@
 	git stash drop
 
 
-[Md Abul Bashar](https://www.facebook.com/nayonptk)  
-## Credit
-[MofasselDotCom](https://github.com/MofasselDotCom/easy-to-use-git-tutorial)  
-[dzone](https://dzone.com/articles/top-20-git-commands-with-examples)  
-[Reference](https://git-scm.com/docs)  
-[More Resource](https://git-scm.com/docs/git)  
+[Md Nayon Hossain](https://www.facebook.com/jahangirtalikhali)  
